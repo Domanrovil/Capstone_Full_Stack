@@ -1,3 +1,11 @@
+#Capstone  
+
+Developed with fellow classmates Jacob Fueger, Kris Maxey, Jameson Vogltanz, Henry White, Jared Wood
+
+
+This is a description for a volunteer management website that was created for The Tabernacle in Danville, VA. The website is used to manage volunteers for the organization. The technologies and software used to build the website include Apache, PHP, SQL Server, JavaScript, HTML, CSS, Azure, Bootstrap, C++, and SQL Management Studio. These technologies and software were chosen to ensure that the website is efficient, functional, and user-friendly.
+The website is currently running on a computer located at The Tabernacle's office. It has been integrated into the organization's existing website and mobile app, so that volunteers can easily access and use it from various devices. Overall, this volunteer management website provides a centralized platform for managing volunteers, allowing for greater efficiency and organization within the organization.
+
 # Database
 Scripts and other database files
 --------------
