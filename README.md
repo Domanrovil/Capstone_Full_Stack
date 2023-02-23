@@ -7,13 +7,14 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
-<h2 align="center"> About The Project</h2>
+<h1 align="center"> About The Project</h1>
 <!--<p> align="center"> <img width=75% height=75% alt="Login Page" src="https://user-images.githubusercontent.com/84547591/220986944-27f9c225-619c-4408-a51a-5e287d7f2372.png"> </p>-->
 
 
 
 
 ![LoginPage](https://user-images.githubusercontent.com/84547591/220986944-27f9c225-619c-4408-a51a-5e287d7f2372.png "Login Page")
+
 <h2>The common funtionalities are:</h2>
 
 - File Sharing - Organization is able to share and organize files that are necessary for volunteers and staff
@@ -23,7 +24,7 @@
 - Volunteer management - allows the organization to manage volunteer data, such as contact information, skills, and interests
 - Reporting and analytics - provides reports and analytics on volunteer activities and performance
 
-<h3> Built With technologies/software</h3>
+<h1> Built With technologies/software</h1>
 
 - #### PHP
 - #### SQL Server
