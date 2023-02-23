@@ -11,7 +11,7 @@
 <section> </section>
 <!--<p> align="center"> <img width=75% height=75% alt="Login Page" src="https://user-images.githubusercontent.com/84547591/220986944-27f9c225-619c-4408-a51a-5e287d7f2372.png"> </p>-->
 
-
+<section>This is a description for a volunteer management website that was created for The Tabernacle in Danville, VA. The website is used to manage volunteers for the organization.</section>
 
 
 ![LoginPage](https://user-images.githubusercontent.com/84547591/220986944-27f9c225-619c-4408-a51a-5e287d7f2372.png "Login Page")
@@ -48,16 +48,9 @@
 - #### Configuring Subdomain
 - #### Client Testing and Review
 
-<!-- GETTING STARTED -->
-
-<h1 align="center">Getting Started</h1>
-This is a description for a volunteer management website that was created for The Tabernacle in Danville, VA. The website is used to manage volunteers for the organization. 
-
- 
- 
- 
-Apache, PHP, SQL Server, JavaScript, HTML, CSS, Azure, Bootstrap, C++, and SQL Management Studio. These technologies and software were chosen to ensure that the website is efficient, functional, and user-friendly.
-The website is currently running on a computer located at The Tabernacle's office. It has been integrated into the organization's existing website and mobile app, so that volunteers can easily access and use it from various devices. Overall, this volunteer management website provides a centralized platform for managing volunteers, allowing for greater efficiency and organization within the organization.
+<br>
+<h2> Design Philosophy</h3>
+<p>These technologies and software were chosen to ensure that the website is efficient, functional, and user-friendly. Some of the staff although have a basic understanding of how to use modern technology wanted a website that was simple and clean without too much going on in other words no animations or a limited amount. The website is currently running on a computer located at The Tabernacle's office. It has been integrated into the organization's existing website and mobile app, so that volunteers can easily access and use it from various devices. Overall, this volunteer management website provides a centralized platform for managing volunteers, allowing for greater efficiency and organization within the organization.</p>
 
 <h1 align="center">Database & System Design</h1>
 
