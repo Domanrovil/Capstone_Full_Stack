@@ -3,7 +3,7 @@
 <p align="center">
 <h1 align="center">Online Volunteer Mangement Platform </h1>
 <h2 align="center">A fullstack internal volunteer management website</h3>
-<h3 align="center">Developed alongside classmates Jacob Fueger, Kris Maxey, Jameson Vogltanz, Henry White, Jared Wood <br></h4>
+<h4 align="center">Developed alongside classmates Jacob Fueger, Kris Maxey, Jameson Vogltanz, Henry White, Jared Wood <br></h4>
 </p>
 
 <!-- ABOUT THE PROJECT -->
@@ -23,19 +23,20 @@
 - Volunteer management - allows the organization to manage volunteer data, such as contact information, skills, and interests
 - Reporting and analytics - provides reports and analytics on volunteer activities and performance
 
-<h2> Built With technologies/software</h2>
+<h3> Built With technologies/software</h3>
 
-- #### Apache
+- #### PHP
 - #### SQL Server
 - #### Java
-- #### PHP
+- #### Apache
 - #### Javascript
 - #### HTML
 - #### CSS
 - #### SQL Management Studio
 - #### Azure Cloud
+- #### C++
 
-### Key concepts:-
+### Key concepts:
 
 - #### Client Communication
 - #### Sprints & SDLC
@@ -57,10 +58,12 @@ The website is currently running on a computer located at The Tabernacle's offic
 # Database
 Scripts and other database files
 --------------
-Database created for a group capstone project in which the group and I created a fully functioning website to hold an online management system. 
+Database created for a group capstone project in which the group and we created a fully functioning website to hold an online management system. 
  
 Database Schema <br> 
+<hr>
 <img width="502" alt="image" src="https://user-images.githubusercontent.com/84547591/220978148-7599b974-1121-4181-99e8-9595a821503c.png">
 <br>
 System Diagram <br>
+<hr>
 <img width="812" alt="image" src="https://user-images.githubusercontent.com/84547591/220976386-2c8259bf-22fc-45b5-85f7-0168a5a39533.png">
