@@ -16,8 +16,8 @@
 
 ![LoginPage](https://user-images.githubusercontent.com/84547591/220986944-27f9c225-619c-4408-a51a-5e287d7f2372.png "Login Page")
 
-<h2 align="center">The common funtionalities are:</h2>
-
+<h2 align="center">Functionalities:</h2>
+- Clean & Simple Design - Organization wanted a design that was both familiar, simple, and easy to use for older staff to use.
 - File Sharing - Organization is able to share and organize files that are necessary for volunteers and staff
 - Volunteer scheduling - allows the organization to schedule volunteers for specific volunteer positions and shifts
 - Volunteer communication - allows the organization to communicate with volunteers about upcoming volunteer opportunities and events
