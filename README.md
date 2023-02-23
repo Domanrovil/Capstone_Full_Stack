@@ -24,7 +24,7 @@
 - Volunteer management - allows the organization to manage volunteer data, such as contact information, skills, and interests
 - Reporting and analytics - provides reports and analytics on volunteer activities and performance
 
-<h1 align="center"> Built With Technologies/Software:</h1>
+<h1 align="center"> Built With Technologies/Software</h1>
 
 - #### PHP
 - #### SQL Server
@@ -39,7 +39,7 @@
 - #### Bootstrap
 - #### C++
 
-<h2 align= "center">Key Concepts:</h2>
+<h2 align= "center">Key Concepts</h2>
 
 - #### Client Communication
 - #### Sprints & SDLC
