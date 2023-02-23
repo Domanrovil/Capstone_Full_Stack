@@ -14,7 +14,7 @@
 
 
 ![LoginPage](https://user-images.githubusercontent.com/84547591/220986944-27f9c225-619c-4408-a51a-5e287d7f2372.png "Login Page")
-#### The common funtionalities are:
+<h2>The common funtionalities are:</h2>
 
 - File Sharing - Organization is able to share and organize files that are necessary for volunteers and staff
 - Volunteer scheduling - allows the organization to schedule volunteers for specific volunteer positions and shifts
@@ -23,7 +23,7 @@
 - Volunteer management - allows the organization to manage volunteer data, such as contact information, skills, and interests
 - Reporting and analytics - provides reports and analytics on volunteer activities and performance
 
-### Built With technologies/software
+<h2> Built With technologies/software</h2>
 
 - #### Apache
 - #### SQL Server
