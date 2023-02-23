@@ -16,7 +16,7 @@
 
 ![LoginPage](https://user-images.githubusercontent.com/84547591/220986944-27f9c225-619c-4408-a51a-5e287d7f2372.png "Login Page")
 
-<h2>The common funtionalities are:</h2>
+<h2 align="center">The common funtionalities are:</h2>
 
 - File Sharing - Organization is able to share and organize files that are necessary for volunteers and staff
 - Volunteer scheduling - allows the organization to schedule volunteers for specific volunteer positions and shifts
@@ -25,7 +25,7 @@
 - Volunteer management - allows the organization to manage volunteer data, such as contact information, skills, and interests
 - Reporting and analytics - provides reports and analytics on volunteer activities and performance
 
-<h1> Built With technologies/software</h1>
+<h1 align="center"> Built With Technologies/Software:</h1>
 
 - #### PHP
 - #### SQL Server
@@ -40,7 +40,7 @@
 - #### Bootstrap
 - #### C++
 
-## Key concepts:
+<h2 align= "center">Key Concepts:</h2>
 
 - #### Client Communication
 - #### Sprints & SDLC
@@ -50,7 +50,7 @@
 
 <!-- GETTING STARTED -->
 
-# Getting Started
+<h1 align="center">Getting Started</h1>
 This is a description for a volunteer management website that was created for The Tabernacle in Danville, VA. The website is used to manage volunteers for the organization. 
 
  
@@ -59,8 +59,7 @@ This is a description for a volunteer management website that was created for Th
 Apache, PHP, SQL Server, JavaScript, HTML, CSS, Azure, Bootstrap, C++, and SQL Management Studio. These technologies and software were chosen to ensure that the website is efficient, functional, and user-friendly.
 The website is currently running on a computer located at The Tabernacle's office. It has been integrated into the organization's existing website and mobile app, so that volunteers can easily access and use it from various devices. Overall, this volunteer management website provides a centralized platform for managing volunteers, allowing for greater efficiency and organization within the organization.
 
-# Database
-Scripts and other database files
+<h1 align="center">Database & System Design</h1>
 --------------
 Database created for a group capstone project in which the group and we created a fully functioning website to hold an online management system. 
  
