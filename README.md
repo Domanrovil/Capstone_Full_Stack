@@ -1,8 +1,7 @@
 
 <!-- PROJECT LOGO -->
 <p align="center">
-<h1 align="center">Online Volunteer Mangement Platform </h1>
-<h2 align="center">A fullstack internal volunteer management website</h3>
+<h1 align="center">A Fullstack Internal Volunteer Management Website</h3>
 <h4 align="center">Developed alongside classmates Jacob Fueger, Kris Maxey, Jameson Vogltanz, Henry White, Jared Wood <br></h4>
 </p>
 
