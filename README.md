@@ -36,6 +36,8 @@
 - #### CSS
 - #### SQL Management Studio
 - #### Azure Cloud
+- #### Visual Studio Code
+- #### Bootstrap
 - #### C++
 
 ## Key concepts:
