@@ -60,7 +60,7 @@ Apache, PHP, SQL Server, JavaScript, HTML, CSS, Azure, Bootstrap, C++, and SQL M
 The website is currently running on a computer located at The Tabernacle's office. It has been integrated into the organization's existing website and mobile app, so that volunteers can easily access and use it from various devices. Overall, this volunteer management website provides a centralized platform for managing volunteers, allowing for greater efficiency and organization within the organization.
 
 <h1 align="center">Database & System Design</h1>
---------------
+
 Database created for a group capstone project in which the group and we created a fully functioning website to hold an online management system. 
  
 Database Schema <br> 
