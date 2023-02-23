@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
 <h1 align="center">A Fullstack Internal Volunteer Management Website</h3>
-<h3 align="center">Developed Alongside Classmates and Good Friends <br> Jacob Fueger, Kris Maxey, Jameson Vogltanz, Henry White, Jared Wood <br></h4>
+<h3 align="center">Developed Alongside my Classmates and Good Friends <br> Jacob Fueger, Kris Maxey, Jameson Vogltanz, Henry White, Jared Wood <br></h4>
 </p>
 
 <!-- ABOUT THE PROJECT -->
