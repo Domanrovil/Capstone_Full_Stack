@@ -8,6 +8,7 @@
 
 <!-- ABOUT THE PROJECT -->
 <h1 align="center"> About The Project</h1>
+<section> </section>
 <!--<p> align="center"> <img width=75% height=75% alt="Login Page" src="https://user-images.githubusercontent.com/84547591/220986944-27f9c225-619c-4408-a51a-5e287d7f2372.png"> </p>-->
 
 
@@ -37,7 +38,7 @@
 - #### Azure Cloud
 - #### C++
 
-### Key concepts:
+## Key concepts:
 
 - #### Client Communication
 - #### Sprints & SDLC
