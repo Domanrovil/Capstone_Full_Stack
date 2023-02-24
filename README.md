@@ -11,9 +11,9 @@
 <!--<p> align="center"> <img width=75% height=75% alt="Login Page" src="https://user-images.githubusercontent.com/84547591/220986944-27f9c225-619c-4408-a51a-5e287d7f2372.png"> </p>-->
 
 <section>
- &emsp; This was a two semester long capstone project created by my team and I. As part of the university computer science course, we had the option to either get assigned to an organization or find one ourselves one to collaborate with. After networking with local organizations, we decided to partner with The Tabernacle Family to develop an internal volunteer management platform for their website and phone application. This platform would enable them to efficiently manage volunteers' schedules without relying on emails,text, and Google Calendar. <br>
+ &emsp;&emsp; This was a two semester long capstone project created by my team and I. As part of the university computer science course, we had the option to either get assigned to an organization or find one ourselves one to collaborate with. After networking with local organizations, we decided to partner with The Tabernacle Family to develop an internal volunteer management platform for their website and phone application. This platform would enable them to efficiently manage volunteers' schedules without relying on emails,text, and Google Calendar. <br>
 
-&emsp;In the initial months, we carefully planned various system designs and features to present to the organization. Based on their feedback, we spent the rest of the year altering the design and developing the volunteer management platform, making changes along the way as per their requirements and within a consistent timeframe. The collaborative effort helped us hone our skills in sprint agile development and also provided a valuable service to the organization.
+&emsp;&emsp;In the initial months, we carefully planned various system designs and features to present to the organization. Based on their feedback, we spent the rest of the year altering the design and developing the volunteer management platform, making changes along the way as per their requirements and within a consistent timeframe. The collaborative effort helped us hone our skills in sprint agile development and also provided a valuable service to the organization.
 </section>
 
 
@@ -59,7 +59,7 @@
 
 <br>
 <h2 align="center">Design Philosophy</h2>
-<p>&emsp;These technologies and software were chosen to ensure that the website is efficient, functional, and user-friendly. Some of the staff although have a basic understanding of how to use modern technology wanted a website that was simple and clean without too much going on in other words no animations or a limited amount. The website is currently running on a computer located at The Tabernacle's office. It has been integrated into the organization's existing website and mobile app, so that volunteers can easily access and use it from various devices. Overall, this volunteer management website provides a centralized platform for managing volunteers, allowing for greater efficiency and organization within the organization.</p>
+<p>&emsp;&emsp;These technologies and software were chosen to ensure that the website is efficient, functional, and user-friendly. Some of the staff although have a basic understanding of how to use modern technology wanted a website that was simple and clean without too much going on in other words no animations or a limited amount. The website is currently running on a computer located at The Tabernacle's office. It has been integrated into the organization's existing website and mobile app, so that volunteers can easily access and use it from various devices. Overall, this volunteer management website provides a centralized platform for managing volunteers, allowing for greater efficiency and organization within the organization.</p>
 <h1 align="center">Demonstration of one of the functionality </h1>
 
 ![AddEventVMS](https://github.com/Domanrovil/Capstone_Full_Stack/blob/main/AddEventVMS.gif "Creating Event Example")
