@@ -26,18 +26,23 @@
 
 <h1 align="center"> Built With Technologies/Software</h1>
 
-- #### PHP
-- #### SQL Server
-- #### Java
-- #### Apache
-- #### Javascript
-- #### HTML
-- #### CSS
-- #### SQL Management Studio
-- #### Azure Cloud
-- #### Visual Studio Code
-- #### Bootstrap
-- #### C++
+- #### PHP <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+- #### SQL Server <img align="left" alt="SQL Server" width="30px" style="padding-right:10px;" src="https://hub.meltano.com/assets/static/mssql.1339262.c2097d3d8ee4490dae8d1872d9d1d4fb.png" />
+- #### Java <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+- #### Apache <img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+- #### Javascript <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+- #### HTML<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+
+- #### CSS <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+
+- #### SQL Server Management Studio <img align="left" alt="SSMS" width="30px" style="padding-right:10px;" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/logo.png" />
+- #### Azure Cloud <img align="left" alt="Azure Cloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+- #### Visual Studio<img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+- #### Bootstrap <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+- #### C++ <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://code.visualstudio.com/assets/icons/file-icons/cpp.svg" />
+- #### Git <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
 
 <h2 align= "center">Key Concepts</h2>
 
