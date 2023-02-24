@@ -61,7 +61,10 @@
 <h2 align="center">Design Philosophy</h2>
 <p>&emsp;These technologies and software were chosen to ensure that the website is efficient, functional, and user-friendly. Some of the staff although have a basic understanding of how to use modern technology wanted a website that was simple and clean without too much going on in other words no animations or a limited amount. The website is currently running on a computer located at The Tabernacle's office. It has been integrated into the organization's existing website and mobile app, so that volunteers can easily access and use it from various devices. Overall, this volunteer management website provides a centralized platform for managing volunteers, allowing for greater efficiency and organization within the organization.</p>
 <h1 align="center">Demonstration of one of the functionality </h1>
-![](https://github.com/Domanrovil/Capstone_Full_Stack/blob/main/AddEventVMS.gif)
+
+![AddEventVMS](https://github.com/Domanrovil/Capstone_Full_Stack/blob/main/AddEventVMS.gif "Creating Event Example")
+
+
 
 <h1 align="center">Database & System Design</h1>
 
